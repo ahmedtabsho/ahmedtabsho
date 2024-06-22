@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Recent graduate with a Computer Engineering degree, achieving top ranking (#1) in both the Engineering Faculty and the Computer Engineering Department.
 <br>🔭  Passionate about applying data science and machine learning to solve real-world problems. 
-<br>🌱  Proficient in Python programming and adept at utilizing deep learning techniques for complex challenges.<br>⚡ Fun fact
+<br>🌱  Proficient in Python programming and adept at utilizing deep learning techniques for complex challenges.
 
 
 ## 🌐 Socials:
