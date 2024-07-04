@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Recent graduate with a Computer Engineering degree, achieving top ranking (#1) in both the Engineering Faculty and the Computer Engineering Department.
+🔭My name is Ahmad Tabsho, and I recently graduated with a degree in Computer Engineering from Harran University, where I was honored to be the top-ranked student in both my faculty and department. 
 <br>🔭  Passionate about applying data science and machine learning to solve real-world problems. 
 <br>🌱  Proficient in Python programming and adept at utilizing deep learning techniques for complex challenges.
 
